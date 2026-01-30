@@ -9,7 +9,7 @@ The resume is structured to closely match the provided reference layout and incl
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **HTML5**
 ---
@@ -58,6 +58,6 @@ Each section uses appropriate HTML elements such as:
 
 ---
 
-## 🖼️ Demo & Output
+##  Demo & Output
 
 ![### 📸 Screenshot](HTML-Resume/Assignment.jpg)
