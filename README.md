@@ -1,4 +1,4 @@
-#  Single-Page Resume Website (HTML Only)
+#  Single-Page Resume Website 
 
 ##  Project Overview
 
@@ -11,7 +11,9 @@ The resume is structured to closely match the provided reference layout and incl
 
 ##  Technologies Used
 
-* **HTML5**
+* **HTML**
+* **CSS**
+
 ---
 
 ##  Sections Included
