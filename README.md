@@ -1,8 +1,8 @@
-# 📄 Single-Page Resume Website (HTML Only)
+#  Single-Page Resume Website (HTML Only)
 
 ##  Project Overview
 
-This project is a **single-page resume website** built using ** HTML**, CSS.
+This project is a **single-page resume website** built using HTML, CSS.
 The goal of this assignment is to demonstrate a strong understanding of **HTML structure, semantics, and layout organization**.
 
 The resume is structured to closely match the provided reference layout and includes all essential resume sections such as personal details, skills, experience, projects, education, and contact information.
@@ -14,7 +14,7 @@ The resume is structured to closely match the provided reference layout and incl
 * **HTML5**
 ---
 
-## 🧱 Sections Included
+##  Sections Included
 
 The resume contains the following sections:
 
@@ -36,7 +36,7 @@ Each section uses appropriate HTML elements such as:
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 1. Clone the repository:
 
